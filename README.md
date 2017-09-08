@@ -4,3 +4,19 @@ The article “A Dao of Web Design” by John Allsopp lays out for the reader, a
 
 
 ![Hero Image for Summary](img/drawing.jpg)
+
+- - -
+
+## Best Practices
+
+### Naming Stuff and Things
+
+- Use lowercase for naming files, folders, and markup
+- Use a hyphen (-) or an underscore (_) and not a space (20%) when seperating phrases in naming files, folders and in markup
+#### Project (Folder, Repo, Structure)
+##### For Example
+- project-name
+  - README.md
+  - index.md
+  - index.html
+  - img/
