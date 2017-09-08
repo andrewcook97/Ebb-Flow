@@ -18,7 +18,7 @@ The article “A Dao of Web Design” by John Allsopp lays out for the reader, a
 
 - - -
 
-#Revision
+# Revision
 
 - - -
 
